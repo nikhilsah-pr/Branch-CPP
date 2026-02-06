@@ -27,5 +27,14 @@ int main() {
     }
     cout << "\nSum of elements: " << sum << endl;
 
+    int max = arr[0];
+    // Finding maximum element
+    for(int i = 1; i < n; i++) {
+        if(arr[i] > max) {
+            max = arr[i];
+        }
+    }
+    cout << "Maximum element: " << max << endl;
+
     return 0;
 }
