@@ -33,7 +33,7 @@ Sum of Elements: 60
 
 <p>
 Happy coding 💻🔥<br>
-— Seboo
+— Nikhil
 </p>
 
 </body>
