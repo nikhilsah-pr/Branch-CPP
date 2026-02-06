@@ -1,25 +1,58 @@
-<h1>Simple C++ Array Program</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple C++ Array Program</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            color: #222;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 12px;
+            border-radius: 6px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
 
-This repo has a basic C++ program that takes array elements from the user and prints the original array.
+    <h1>Simple C++ Array Program</h1>
 
-<h4>Your Task 😄</h4>
+    <p>
+        This repo has a basic C++ program that takes array elements from the user
+        and prints the original array.
+    </p>
 
-Clone this repo locally
+    <h3>Your Task 😄</h3>
 
-Create your own branch
+    <ol>
+        <li>Clone this repo locally</li>
+        <li>Create your own branch</li>
+        <li>In the <strong>same code</strong>, add logic to calculate the <strong>sum of all elements</strong></li>
+        <li>Print the sum at the end</li>
+    </ol>
 
-In the same code, add logic to calculate the sum of all elements
+    <p>That’s it.</p>
 
-Print the sum at the end
+    <p><strong>Example output:</strong></p>
 
-That’s it.
-
-Example output:
-
-Original Array: 10 20 30  
+    <pre>
+Original Array: 10 20 30
 Sum of Elements: 60
+    </pre>
 
-Push your changes and open a PR 🚀
+    <p>Push your changes and open a PR 🚀</p>
 
-Happy coding 💻🔥
-— Nikhil 
+    <p>Happy coding 💻🔥<br>
+    — Seboo</p>
+
+</body>
+</html>
